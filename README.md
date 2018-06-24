@@ -27,7 +27,7 @@ Vue.use(icuiVue)
 克隆代码，安装依赖，并运行本地服务
 
 ```
-$ https://github.com/zhyjor/vue-icui
+$ clone https://github.com/zhyjor/vue-icui
 $ cd vue-icui && npm install
 $ npm run dev
 ```
